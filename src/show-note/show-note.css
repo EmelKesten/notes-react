@@ -1,0 +1,22 @@
+.edit-btn{
+    background-color: #0000ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.note-title-btn{
+    display: flex;
+    justify-content: space-between;
+}
+.note-title-btn div {
+    display: flex;
+}
+.marg{
+    margin: 10px;
+}
+.show-note-container{
+    margin: 10px;
+}
